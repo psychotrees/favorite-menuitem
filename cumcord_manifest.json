@@ -1,0 +1,7 @@
+{
+  "name": "Favorite Menuitem",
+  "description": "Adds a context menu to favorite/unfavorite channels and DMs. ",
+  "author": "xeras#1337",
+  "file": "index.js",
+  "license": "MIT"
+}
